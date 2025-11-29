@@ -1,16 +1,44 @@
-## Hi there 👋
+# 👋 Hi, I'm Mauro
 
-<!--
-**marangoarteaga/marangoarteaga** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🎯 **Python Developer & Software Development Student**  
+💻 Web technologies: **HTML, CSS, JavaScript**  
+📊 Interested in **Data Analysis & Automation**  
+🎓 Currently studying **Software Development at Solfear**
 
-Here are some ideas to get you started:
+---
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 About Me
+
+I'm a motivated junior developer focused on continuous learning and building real-world projects using Python and web technologies.  
+I enjoy data analysis, automation, and creating efficient digital solutions.
+
+I also have experience as a **Virtual Administrative Assistant**, customer service, and **English ↔ Spanish translation**, which gives me strong soft skills for teamwork and remote work.
+
+---
+
+## 🛠️ Tech Stack
+
+### Programming
+- 🐍 Python
+- 🌐 HTML, CSS, JavaScript
+
+### Tools
+- Git & GitHub  
+- VS Code  
+- Microsoft Excel (Advanced)
+
+---
+
+## 📌 Currently Learning
+
+- Advanced Python  
+- Machine Learning fundamentals  
+- Generative AI  
+- Backend development  
+
+---
+
+## 📫 Let's Connect
+
+- 💼 GitHub: **marangoarteaga**
+- 🌎 Location: Colombia
