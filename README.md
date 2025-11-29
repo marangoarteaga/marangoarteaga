@@ -3,7 +3,7 @@
 🎯 **Python Developer & Software Development Student**  
 💻 Web technologies: **HTML, CSS, JavaScript**  
 📊 Interested in **Data Analysis & Automation**  
-🎓 Currently studying **Software Development at Solfear**
+🎓 Currently studying **Software Development**
 
 ---
 
