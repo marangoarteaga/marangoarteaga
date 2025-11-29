@@ -42,3 +42,12 @@ I also have experience as a **Virtual Administrative Assistant**, customer servi
 
 - 💼 GitHub: **marangoarteaga**
 - 🌎 Location: Colombia
+
+---
+
+## 📊 GitHub Stats
+
+![GitHub Stats](https://github-readme-stats.vercel.app/api?username=marangoarteaga&show_icons=true&theme=github_dark&hide_border=true)
+
+![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=marangoarteaga&layout=compact&theme=github_dark&hide_border=true)
+
